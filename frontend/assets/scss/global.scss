@@ -1,0 +1,164 @@
+@import './vars.scss';
+@import './font.scss';
+
+html, body {
+  font-family: 'Walsheim';
+  font-size: $textSize;
+  -webkit-font-smoothing: antialiased;
+}
+
+a {
+  color: $mainColor;
+  &:hover {
+    color: $highlightColor;
+  }
+}
+h1, h2, h6 {
+  text-transform: uppercase;
+}
+h4 {
+  // opacity: 0.5;
+}
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Walsheim';
+}
+p,h1,h2,h3,h4,h5,h6 {
+  margin: 0;
+  font-weight: normal;
+  padding: 5px 0 15px;
+}
+
+h1 {
+  font-size: $h1Size;
+}
+h2 {
+  font-size: $h2Size;
+}
+h3 {
+  font-size: $h3Size;
+}
+h4 {
+  font-size: $h4Size;
+}
+h5 {
+  font-size: $h5Size;
+}
+h6 {
+  font-size: $h6Size;
+}
+p, span, a {
+  font-size: $textSize;
+  font-family: 'Walsheim';
+}
+
+@media screen and (max-width:800px) {
+  h1 {
+    font-size: 40px;
+  }
+  h2 {
+    font-size: 26px;
+  }
+  h3 {
+    font-size: 20px;
+  }
+  h4 {
+    font-size: 16px;
+  }
+  h5 {
+    font-size: 12px;
+  }
+  h6 {
+    font-size: 12px;
+  }
+  p, span, a {
+    font-size: 12px;
+  }
+}
+
+
+h2.titleWithLine {
+  position: relative;
+  padding: 0;
+  // display: inline-block;
+  &:after {
+    content: " ";
+    width: 92px;
+    // position: absolute;
+    display: block;
+    margin: 30px auto;
+    // left: 50%;
+    // transform: translate3d(-50%, 0, 0);
+    // bottom: -14px;
+    height: 14px;
+    background: $mainColor;
+    border-radius: 14px;
+  }
+}
+
+.keyBtn {
+  background: #0047F9!important;
+  &:hover {
+    background: lighten(#0047F9, 10%)!important;
+  }
+}
+
+.flowContainer{
+  width: 1000px;
+  margin: 0 auto;
+  height: auto;
+  @media screen and (max-width:800px) {
+    width: 100%;
+    overflow: hidden;
+  }
+}
+.el-menu-item{
+  padding: 0 0 0 40px;
+}
+
+.bannerHeading{
+  font-size: 54px;
+  text-transform: none;
+  padding: 0;
+}
+
+.bannerSubHeading{
+  font-size: 48px;
+  text-transform: none;
+  padding: 0;
+}
+
+.bannerContent{
+  font-size: 20px;
+  text-transform: none;
+  padding: 0;
+  text-align: justify;
+}
+
+.paraHeading{
+  font-size: 54px;
+  text-transform: none;
+  padding: 0;
+}
+
+.paraSubHeading{
+  font-size: 24px;
+  font-weight: bold;
+  text-transform: none;
+  padding: 0;
+}
+.paraContent{
+  font-size: 18px;
+  line-height: 28px;
+  text-transform: none;
+  padding: 0;
+}
+
+.learnMoreBtn{
+  width: 160px;
+  height: 50px;
+  background: #FFFFFF;
+  border-radius: 12px;
+  span{
+    color: #0D5FFF;
+  }
+}

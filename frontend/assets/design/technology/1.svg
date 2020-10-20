@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="642px" height="621px" viewBox="0 0 642 621" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54 (76480) - https://sketchapp.com -->
+    <title>pattern1</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="127" y="0" width="229" height="101"></rect>
+        <filter x="-7.0%" y="-6.9%" width="109.6%" height="117.8%" filterUnits="objectBoundingBox" id="filter-2">
+            <feMorphology radius="1" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="-7" dy="2" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.349733232   0 0 0 0 1   0 0 0 0 0.868482978  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-3" x="284" y="82" width="286" height="116"></rect>
+        <filter x="-5.6%" y="-6.0%" width="107.7%" height="115.5%" filterUnits="objectBoundingBox" id="filter-4">
+            <feMorphology radius="1" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="-7" dy="2" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.349733232   0 0 0 0 1   0 0 0 0 0.868482978  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-5" x="284" y="82" width="286" height="116"></rect>
+        <filter x="-5.6%" y="-6.0%" width="107.7%" height="115.5%" filterUnits="objectBoundingBox" id="filter-6">
+            <feMorphology radius="1" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="-7" dy="2" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.349733232   0 0 0 0 1   0 0 0 0 0.868482978  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-7" x="173" y="177" width="200" height="102"></rect>
+        <filter x="-8.0%" y="-6.9%" width="111.0%" height="117.6%" filterUnits="objectBoundingBox" id="filter-8">
+            <feMorphology radius="1" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="-7" dy="2" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.349733232   0 0 0 0 1   0 0 0 0 0.868482978  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-9" x="400" y="252" width="230" height="102"></rect>
+        <filter x="-7.0%" y="-6.9%" width="109.6%" height="117.6%" filterUnits="objectBoundingBox" id="filter-10">
+            <feMorphology radius="1" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="-7" dy="2" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.349733232   0 0 0 0 1   0 0 0 0 0.868482978  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-11" x="210" y="325" width="229" height="102"></rect>
+        <filter x="-7.0%" y="-6.9%" width="109.6%" height="117.6%" filterUnits="objectBoundingBox" id="filter-12">
+            <feMorphology radius="1" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="-7" dy="2" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.349733232   0 0 0 0 1   0 0 0 0 0.868482978  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-13" x="0" y="117" width="200" height="102"></rect>
+        <filter x="-8.0%" y="-6.9%" width="111.0%" height="117.6%" filterUnits="objectBoundingBox" id="filter-14">
+            <feMorphology radius="1" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="-7" dy="2" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.349733232   0 0 0 0 1   0 0 0 0 0.868482978  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <linearGradient x1="48.4919411%" y1="0%" x2="48.4919411%" y2="117.228516%" id="linearGradient-15">
+            <stop stop-color="#29E4E1" offset="0%"></stop>
+            <stop stop-color="#2DE6E3" offset="50.9369721%"></stop>
+            <stop stop-color="#59F4F3" stop-opacity="0.0126748252" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="48.4919411%" y1="0%" x2="48.4919411%" y2="117.228516%" id="linearGradient-16">
+            <stop stop-color="#29E4E1" offset="0%"></stop>
+            <stop stop-color="#2DE6E3" offset="50.9369721%"></stop>
+            <stop stop-color="#59F4F3" stop-opacity="0.0126748252" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="48.4919411%" y1="0%" x2="48.4919411%" y2="117.228516%" id="linearGradient-17">
+            <stop stop-color="#29E4E1" offset="0%"></stop>
+            <stop stop-color="#2DE6E3" offset="50.9369721%"></stop>
+            <stop stop-color="#59F4F3" stop-opacity="0.0126748252" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="48.4919411%" y1="0%" x2="48.4919411%" y2="117.228516%" id="linearGradient-18">
+            <stop stop-color="#29E4E1" offset="0%"></stop>
+            <stop stop-color="#2DE6E3" offset="50.9369721%"></stop>
+            <stop stop-color="#59F4F3" stop-opacity="0.0126748252" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="48.4919411%" y1="0%" x2="48.4919411%" y2="117.228516%" id="linearGradient-19">
+            <stop stop-color="#29E4E1" offset="0%"></stop>
+            <stop stop-color="#2DE6E3" offset="50.9369721%"></stop>
+            <stop stop-color="#59F4F3" stop-opacity="0.0126748252" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="48.4919411%" y1="0%" x2="48.4919411%" y2="117.228516%" id="linearGradient-20">
+            <stop stop-color="#29E4E1" offset="0%"></stop>
+            <stop stop-color="#2DE6E3" offset="50.9369721%"></stop>
+            <stop stop-color="#59F4F3" stop-opacity="0.0126748252" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="technology" transform="translate(-1012.000000, -1296.000000)">
+            <g id="pattern1" transform="translate(1023.000000, 1298.000000)">
+                <g id="language">
+                    <g id="Rectangle">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                        <use stroke="#2DE6E3" stroke-width="2" fill-opacity="0.6" fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    </g>
+                    <g id="Rectangle">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
+                        <use stroke="#2DE6E3" stroke-width="2" fill-opacity="0.6" fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-3"></use>
+                    </g>
+                    <g id="Rectangle">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-6)" xlink:href="#path-5"></use>
+                        <use stroke="#2DE6E3" stroke-width="2" fill-opacity="0.6" fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-5"></use>
+                    </g>
+                    <g id="Rectangle">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-8)" xlink:href="#path-7"></use>
+                        <use stroke="#2DE6E3" stroke-width="2" fill-opacity="0.6" fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-7"></use>
+                    </g>
+                    <g id="Rectangle">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-10)" xlink:href="#path-9"></use>
+                        <use stroke="#2DE6E3" stroke-width="2" fill-opacity="0.6" fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-9"></use>
+                    </g>
+                    <g id="Rectangle">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-12)" xlink:href="#path-11"></use>
+                        <use stroke="#2DE6E3" stroke-width="2" fill-opacity="0.6" fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-11"></use>
+                    </g>
+                    <g id="Rectangle">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-14)" xlink:href="#path-13"></use>
+                        <use stroke="#2DE6E3" stroke-width="2" fill-opacity="0.6" fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-13"></use>
+                    </g>
+                    <path d="M100,219 L100,619" id="Path-8" stroke="url(#linearGradient-15)" stroke-width="2"></path>
+                    <path d="M324.5,427 L324.5,619" id="Path-9" stroke="url(#linearGradient-16)" stroke-width="2"></path>
+                    <path d="M515,354 L515,619" id="Path-10" stroke="url(#linearGradient-17)" stroke-width="2"></path>
+                    <path d="M273,279 L273,325" id="Path-11" stroke="url(#linearGradient-18)" stroke-width="2"></path>
+                    <path d="M427,202 L427,252" id="Path-12" stroke="url(#linearGradient-19)" stroke-width="2"></path>
+                    <path d="M240.5,101 L240.5,177" id="Path-13" stroke="url(#linearGradient-20)" stroke-width="2"></path>
+                    <text id="中文" font-family="PingFangSC-Regular, PingFang SC" font-size="44" font-weight="normal" fill="#4F4F4F">
+                        <tspan x="56" y="187">中文</tspan>
+                    </text>
+                    <text id="English" font-family="Roboto-Regular, Roboto" font-size="44" font-weight="normal" fill="#4F4F4F">
+                        <tspan x="169" y="68">English</tspan>
+                    </text>
+                    <text id="Others" font-family="Roboto-Regular, Roboto" font-size="44" font-weight="normal" fill="#4F4F4F">
+                        <tspan x="448" y="315">Others</tspan>
+                    </text>
+                    <text id="Indonesian" font-family="Roboto-Regular, Roboto" font-size="44" font-weight="normal" fill="#4F4F4F">
+                        <tspan x="319" y="156">Indonesian</tspan>
+                    </text>
+                    <text id="日本語" font-family="PingFangSC-Regular, PingFang SC" font-size="44" font-weight="normal" fill="#4F4F4F">
+                        <tspan x="261" y="392">日本語</tspan>
+                    </text>
+                    <text id="Malay" font-family="Roboto-Regular, Roboto" font-size="44" font-weight="normal" fill="#4F4F4F">
+                        <tspan x="216" y="242">Malay</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="303px" height="683px" viewBox="0 0 303 683" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54 (76480) - https://sketchapp.com -->
+    <title>编组</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="62.453125 269 75 259 95 269 105 287.554688 105 299 75 299 55 279"></polygon>
+        <filter x="-32.6%" y="-17.9%" width="144.6%" height="145.4%" filterUnits="objectBoundingBox" id="filter-2">
+            <feMorphology radius="1" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="-7" dy="2" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feMorphology radius="1" operator="erode" in="SourceAlpha" result="shadowInner"></feMorphology>
+            <feOffset dx="-7" dy="2" in="shadowInner" result="shadowInner"></feOffset>
+            <feComposite in="shadowOffsetOuter1" in2="shadowInner" operator="out" result="shadowOffsetOuter1"></feComposite>
+            <feGaussianBlur stdDeviation="1.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.349733232   0 0 0 0 1   0 0 0 0 0.868482978  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <polygon id="path-3" points="255 248.788946 260.391955 218 292.774626 218 300 248.788946 280.195977 256 273.488912 256 260.391955 256"></polygon>
+        <filter x="-35.7%" y="-18.4%" width="149.4%" height="147.4%" filterUnits="objectBoundingBox" id="filter-4">
+            <feMorphology radius="1" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="-7" dy="2" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feMorphology radius="1" operator="erode" in="SourceAlpha" result="shadowInner"></feMorphology>
+            <feOffset dx="-7" dy="2" in="shadowInner" result="shadowInner"></feOffset>
+            <feComposite in="shadowOffsetOuter1" in2="shadowInner" operator="out" result="shadowOffsetOuter1"></feComposite>
+            <feGaussianBlur stdDeviation="1.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.349733232   0 0 0 0 1   0 0 0 0 0.868482978  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="MIKA-1" transform="translate(-1412.000000, -98.000000)">
+            <g id="编组" transform="translate(1413.000000, 99.000000)">
+                <g id="Path-2">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                    <use stroke="#2DE6E3" stroke-width="2" xlink:href="#path-1"></use>
+                </g>
+                <g id="Path-3">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
+                    <use stroke="#2DE6E3" stroke-width="2" xlink:href="#path-3"></use>
+                </g>
+                <polyline id="Path-4" stroke="#2DE6E3" stroke-width="2" points="12.2578125 0 5.4453125 74.3984375 8.8515625 114.820312 8.8515625 154.070312 0 180 0 200 6.12890625 211.5 32.2578125 247.242187 44.0273438 268.804687 44.0273438 285.699219 52.2578125 300 52.2578125 320 52.2578125 349.589844 52.2578125 374.351562 65.6132813 392.476562 72.2578125 400 80 441 132 531.5 146 550 162 575.679687 183.045824 607 222 651 252 681"></polyline>
+            </g>
+        </g>
+    </g>
+</svg>
