@@ -5,7 +5,7 @@ const env = process.argv[2]
 const configMysql = env === 'dev' ? {
     username: 'flow',
     password: 'S7SYnPPqHUNUBqxk389K',
-    host: 'data-capturer-dev.cmzd72ujizrl.ap-southeast-1.rds.amazonaws.com',
+    host: 'xxxx',
     port: 3306,
     database: 'd_capturer_dev'
 } : {
